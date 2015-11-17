@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26023" started-at="2015-09-07T12:41:52Z" finished-at="2015-09-07T12:42:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26023" started-at="2015-09-07T12:41:52Z" finished-at="2015-09-07T12:42:18Z">
+      <class name="Config.TestConfig">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:Config.TestConfig@2be94b0f]" name="startTest" duration-ms="25955" started-at="2015-09-07T18:11:52Z" finished-at="2015-09-07T18:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+      </class> <!-- Config.TestConfig -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
